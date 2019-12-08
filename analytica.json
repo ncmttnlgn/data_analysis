@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "analyticahouse",
+  "private_key_id": "1d991706ec3309863d47250d31a4beadffcf0c1d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDNao0o079nWWhN\nrdtSEPYsev2R17wQV91KMVsZcCi8TS5P9T9lsuOsWqY1stZtF8GVJI/x3SUBZvnG\nyxbwsYFPHZwVeXK/pUblpYOiE7w0akUNvcMyfHHZ5C6pBWDW3ed0CHVGJCfTIr+Y\np3EWQ/duhxi3u42sq9cr2kCp46dNgb3pRpxsiTbGoejuhmVVc9PUXtTtfNVC36Yr\nO9RfDEnU4E37lqzwJA/ZX6tFfRKovJ7lmw1YYXzc+KfNS0XtKI+q6uqQRG+EJSMe\ndWLGIscqeQKGbaHon3H7XTPz1AHFLpD06AWOLusWoFFvD/diMeh++uN08nRnbO0S\nutmYNXMPAgMBAAECggEAQD8WplHP+BGJI16AjaLbc98FxuMcIVpxzl4weXzQaNCU\n7xIsAXFZbxMtD/d+xEEdXTnBwapihBVCgvALHT3PTUDcDAVfo9wcGABT8tHMV/Jy\n5ZDX58bvTvBkvZ1+g8WEuhBZKZZuVEV2elbIcmfQkCO10eVZsstOMZuCBQC8V2tw\nAQr++b0TkptMjdpT7V8OpGaP6PDYaqlfWXhUfjdtjIWz0OmmdPHggHAv1nEaEnnI\nfjR8Q1cmKy93c7R7PvpjNoxFLN6uOPoeoYaW/UozZT/R0KfygsDMm57hJumuyTmd\n6KXqlBgHrjM2ydkuwsMh6sYv+6eRqDM0iKjCsIZ3HQKBgQD/n1INHFYrfpTOxt/0\nvHtFBjLJiAH+WVG/qIbdOqZ25515LD76oUqElGylbZpLPdCfvl1Hqiraf5MjnUtD\nw0KOy6W5Lo4tc5Vxr2O+bKn1UmJprGIqPEt9DQquEs60cfEFVOHjbxQWkMJRmgxk\nr2HFcxt6UqT6A0q5/TWWcNqplQKBgQDNuD4IyBPatUpqoMK5g5VJRx277tpfRU20\nhIv9Bil9rN6DRZxVT7BK3Tq1R39bhXnZ0qUlkcuIKg62vGS15E//eWHvLiUzGbr+\nBEBNS0zpQYbYF30v3P64BYCxTpXdEORetDPg/VHfmrT6cTGATWncC7Pp03T1jrrs\nIK0UhwopEwKBgQDTAV6nt+ZhjOGlNoET8qoGtjEiLoUGwhA7FxAMeieDK3nP1ng+\nRvnOKv7sJ2cgCOy3kFpLl+o75uc8lNDWJM5CNVSdYhK27hxEdbTuMaCyAsl91XBK\n0O63URapzpiWVx/PeNvl84Evh1sAJRtp2WPpqzTZanMIdcMveBbOEmZNaQKBgQC/\nkBhcDwvF9llUj1ykaW5DbTC4BwRcAOoJ9f9xXyKVv7r4XILmQi10mSuJEQn8TH+a\nIXfdUzVHF3raGPZjFjaUPBDBK6RCQGyLC6RhFYSKFJWfdcgCIPUkoSMkeHw+/fLa\naU2B7gImiSaLq4of4nZ4DIG9dEYOP5m6NfdWDSWd9wKBgDL4R3xdkr9/hLg4Nntw\ng5rvDdkvk3YNnCfgMSyIc9ohtv37qlanUB8cZwgprbDczwVeC/NcwZdrgfvcuUDx\nRH4x09g0G/oEhvto0U4Oi+PnIfEbUjUsxQlNmz9Au8oSmfaYb+B8B1jSIE4+eVNK\nZrykFfpS6fiRSaV0Ygx7r/fb\n-----END PRIVATE KEY-----\n",
+  "client_email": "necmettinilgin@analyticahouse.iam.gserviceaccount.com",
+  "client_id": "106978156623417485869",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/necmettinilgin%40analyticahouse.iam.gserviceaccount.com"
+}
